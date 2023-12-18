@@ -13,4 +13,5 @@
 #
 ---
 include:
-  - board: bt65_v1
+  - board: pillbug
+  - shield: bb65
