@@ -77,7 +77,7 @@
         &kp GRAVE    &kp F1    &kp F2    &kp F3    &kp F4    &kp F5    &kp F6    &kp F7    &kp F8   &kp F9   &kp F10   &kp F11   &kp F12   &kp DEL
         &none		 &none	   &none	 &none	   &none    &none    &none    &none    &none   &none   &none    &none  &none    &sys_reset
         &none       &none    &none    &none    &none    &none    &none    &none    &none   &none   &none    &none    &bootloader
-        &none       &none    &none    &none    &none    &none    &none    &none    &none   &none   &none    &none    &none &kp PG_UP &none
+        &none       &none    &none    &none    &none    &none    &none    &none    &none   &none   &none    &none    &kp PG_UP &none
         &none &none  &none              &none                      &none    &none    &none                      &kp HOME  &kp PG_DN &kp END
       >;
       sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
